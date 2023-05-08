@@ -1,0 +1,3 @@
+<launch>
+        <node pkg="bump" name="bump_node" type="bump_node" />
+</launch>
